@@ -2,9 +2,9 @@
 title: Milena Zielonka
 email: esy_floresy@op.pl
 description: ""
-baseurl:  # the subpath of your site, e.g. /blog/
+baseurl:   # the subpath of your site, e.g. /blog/
 url: "http://zilenamielonka.pl/" # the base hostname & protocol for your site
-ga: UA-45562731-1
+ga: 
 
 # Build settings
 markdown: kramdown
