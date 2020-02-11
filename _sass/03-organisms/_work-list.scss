@@ -67,7 +67,7 @@ $work-item-height-xs: 400px;
         height: 100%;
         overflow: hidden;
         @include breakpoint(md) {
-          height: 450px;
+          height: 250px;
         }
       }
     }
