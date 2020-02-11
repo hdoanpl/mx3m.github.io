@@ -1,6 +1,6 @@
 _site
 .sass-cache
-        .jekyll-cache/
-                _posts/
-                        _work/
-                                img/work/
+.jekyll-cache/
+_posts/
+_work/
+img/work/
