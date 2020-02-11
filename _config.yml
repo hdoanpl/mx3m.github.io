@@ -1,9 +1,9 @@
 # Site settings
 title: Milena Zielonka
-email: mathieu.mm@me.com
+email: esy_floresy@op.pl
 description: ""
-baseurl: "/test-portfolio-milena/" # the subpath of your site, e.g. /blog/
-url: "https://mathieumayer.com" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://zilenamielonka.pl/" # the base hostname & protocol for your site
 ga: UA-45562731-1
 
 # Build settings
